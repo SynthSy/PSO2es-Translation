@@ -12,7 +12,6 @@
 
 ## Credits
 
-
 * SEGAC - For the libs that power the trans tool (lol)
 * PolCPP - Aka Rupikachu for the tool
 * AIDA - Initial translations
@@ -24,6 +23,54 @@
 * Nyaato - Misc. translations
 * YukaLily - Misc. translations
 * Nora - Misc. translations
+
+## Differences from Normal Branch
+
+* The Special Abilities are edited to fit the search box, see guide as followed:
+
+            RockB Soul		-> Rockbear Soul
+            Ransa Soul		-> Ra'nsa Soul
+            P-Collect  		-> Photon Collect
+            Tagami Soul		-> Tagamikazuchi Soul
+            S-Receptor		-> Soul Receptor
+            Mark J            -> Mark Joyo
+            Mark C            -> Mark Couragena
+            Mark A            -> Mark Angar
+            Mark G            -> Mark Grif
+            KG Soul           -> Knight Gear Soul
+            G-Receptor        -> Gift Receptor
+            TK Fever          -> Toro Kuro Fever
+            Sun S Fever       -> Sun Sun Fever
+            D-Soul            -> Deadlion Soul
+            L-Soul            -> Leopard Soul
+            Gr-Soul           -> Greuzoras Soul
+            Noble-P           -> Noble Power
+            Noble Stam		-> Noble Stamina
+            App Soul          -> Apprentice Soul
+            Spirita-A         -> Spirita Alpha
+            Da-Soul           -> Darkness Soul
+            S-Catalyst		-> Soul Catalyst
+            A-The Soul		-> Act The Soul
+            T-The Soul		-> Till The Soul
+            M-The Soul		-> Magi The Soul
+            Ar-The Soul		-> Ares The Soul
+            Y-Factor          -> Yamato Factor
+            O-Boost           -> Offense Boost
+            D-Boost           -> Defense Boost
+            A-Receptor        -> Attack Receptor
+            Gu-Receptor       -> Guard Receptor
+            Ph-Receptor		-> Photon Receptor
+            FVegas Soul		-> Full Vegas Soul
+            E-Power           -> Elegant Power
+            E-Shot            -> Elegant Shot
+            E-Tech            -> Elegant Technique
+            E-Stamina         -> Elegant Stamina
+            Izane Soul        -> Izane Kazuchi Soul
+            M-Factor          -> Mother Factor
+            Phr-Receptor      -> Phrase Receptor
+            Sen-Receptor      -> Sentence Receptor
+            O-Reverie         -> Omega Reverie
+            E-Reverie         -> Elder Reverie
 
 ## License
 
@@ -40,3 +87,4 @@
    TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
  
   0. You just DO WHAT THE FUCK YOU WANT TO.
+
