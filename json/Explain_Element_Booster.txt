@@ -457,7 +457,7 @@
 	{
 		"assign": "65",
 		"jp_text": "ロックベア・ソール",
-		"tr_text": "Rockbear Soul",
+		"tr_text": "RockB Soul",
 		"jp_explain": "打防+30 HP+10 PP+3",
 		"tr_explain": "S-DEF+30 HP+10 PP+3"
 	},
@@ -513,7 +513,7 @@
 	{
 		"assign": "73",
 		"jp_text": "ランサ・ソール",
-		"tr_text": "Ra'nsaSoul",
+		"tr_text": "Ransa Soul",
 		"jp_explain": "射撃+30 HP+20",
 		"tr_explain": "R-ATK+30 HP+20"
 	},
@@ -527,7 +527,7 @@
 	{
 		"assign": "75",
 		"jp_text": "フォトンコレクト",
-		"tr_text": "Photon Collect",
+		"tr_text": "P-Collect",
 		"jp_explain": "状態異常と属性耐性の\n合成確率を上昇させる\nステータス上昇なし",
 		"tr_explain": "Boost synthesis transfer\nrate of status effect\nabilities."
 	},
@@ -646,7 +646,7 @@
 	{
 		"assign": "92",
 		"jp_text": "タガミカヅチ・ソール",
-		"tr_text": "Tagamikazuchi Soul",
+		"tr_text": "Tagami Soul",
 		"jp_explain": "射撃+20 法撃+20\nPP+2",
 		"tr_explain": "R-ATK+20 T-ATK+20\nPP+2"
 	},
@@ -786,42 +786,42 @@
 	{
 		"assign": "112",
 		"jp_text": "ソールレセプター",
-		"tr_text": "Soul Receptor",
+		"tr_text": "S-Receptor",
 		"jp_explain": "ソール系特殊能力の\n合成成功率を大幅に上昇\n全+10",
 		"tr_explain": "Boosts transfer\nrate of Soul Abilities.\nALL+10"
 	},
 	{
 		"assign": "113",
 		"jp_text": "マーク・ジョイオ",
-		"tr_text": "Mark Joyo",
+		"tr_text": "Mark J",
 		"jp_explain": "打撃+40 射撃+40\n法撃+40 HP+50",
 		"tr_explain": "S-ATK+40 R-ATK+40\nT-ATK+40 HP+50"
 	},
 	{
 		"assign": "114",
 		"jp_text": "マーク・カレジナ",
-		"tr_text": "Mark Couragena",
+		"tr_text": "Mark C",
 		"jp_explain": "打撃+40 射撃+40\n法撃+40 PP+5",
 		"tr_explain": "S-ATK+40 R-ATK+40\nT-ATK+40 PP+5"
 	},
 	{
 		"assign": "115",
 		"jp_text": "マーク・アンガル",
-		"tr_text": "Mark Angar",
+		"tr_text": "Mark A",
 		"jp_explain": "打撃+50 射撃+50\n法撃+50 技量+40",
 		"tr_explain": "S-ATK+40 R-ATK+40\nT-ATK+40 DEX+40"
 	},
 	{
 		"assign": "116",
 		"jp_text": "マーク・グリフ",
-		"tr_text": "Mark Grif",
+		"tr_text": "Mark G",
 		"jp_explain": "打防+50 射防+50\n法防+50 HP+80",
 		"tr_explain": "S-DEF+50 R-DEF+50\nT-DEF+50 HP+80"
 	},
 	{
 		"assign": "117",
 		"jp_text": "ナイトギア・ソール",
-		"tr_text": "Knight Gear Soul",
+		"tr_text": "KG Soul",
 		"jp_explain": "打撃+15 射撃+15\n法撃+15 技量+15 PP+4",
 		"tr_explain": "S-ATK+15 R-ATK+15\nT-ATK+15 PP+4"
 	},
@@ -884,7 +884,7 @@
 	{
 		"assign": "126",
 		"jp_text": "ギフトレセプター",
-		"tr_text": "Gift Receptor",
+		"tr_text": "G-Receptor",
 		"jp_explain": "ギフト系特殊能力の\n引き継ぎが可能になる\n全+10",
 		"tr_explain": "Boosts transfer\nrate of gift abilities.\nALL+10"
 	},
@@ -912,7 +912,7 @@
 	{
 		"assign": "130",
 		"jp_text": "トロクロ・フィーバー",
-		"tr_text": "Toro Kuro Fever",
+		"tr_text": "TK Fever",
 		"jp_explain": "技量+15 HP+5 PP+1",
 		"tr_explain": "DEX+15 HP+5\nPP+1"
 	},
@@ -933,7 +933,7 @@
 	{
 		"assign": "133",
 		"jp_text": "サンサン・フィーバー",
-		"tr_text": "Sun Sun Fever",
+		"tr_text": "Sun S Fever",
 		"jp_explain": "打撃+5 射撃+5\n法撃+5 HP+5 PP+1",
 		"tr_explain": "ATK+5 HP+5 PP+1"
 	},
@@ -961,14 +961,14 @@
 	{
 		"assign": "137",
 		"jp_text": "デッドリオン・ソール",
-		"tr_text": "Deadlion Soul",
+		"tr_text": "D-Soul",
 		"jp_explain": "打撃+35 技量+5\nHP+30",
 		"tr_explain": "S-ATK+35 DEX+5\nHP+20"
 	},
 	{
 		"assign": "138",
 		"jp_text": "レオパード・ソール",
-		"tr_text": "Leopard Soul",
+		"tr_text": "L-Soul",
 		"jp_explain": "射撃+35 技量+5\nHP+30",
 		"tr_explain": "R-ATK+35 DEX+5\nHP30"
 	},
@@ -1010,7 +1010,7 @@
 	{
 		"assign": "144",
 		"jp_text": "グリュゾラス・ソール",
-		"tr_text": "Greuzoras Soul",
+		"tr_text": "Gr-Soul",
 		"jp_explain": "射撃+35 技量+5\nPP+3",
 		"tr_explain": "R-ATK+35 DEX+5\nPP+3"
 	},
@@ -1031,7 +1031,7 @@
 	{
 		"assign": "147",
 		"jp_text": "ノーブル・パワー",
-		"tr_text": "Noble Power",
+		"tr_text": "Noble-P",
 		"jp_explain": "PP+3 打撃+30",
 		"tr_explain": "S-ATK+30 PP+3"
 	},
@@ -1052,7 +1052,7 @@
 	{
 		"assign": "150",
 		"jp_text": "ノーブル・スタミナ",
-		"tr_text": "Noble Stamina",
+		"tr_text": "Noble Stam",
 		"jp_explain": "HP+50 PP+3",
 		"tr_explain": "HP+50 PP+3"
 	},
@@ -1164,7 +1164,7 @@
 	{
 		"assign": "166",
 		"jp_text": "アプレンティス・ソール",
-		"tr_text": "Apprentice Soul",
+		"tr_text": "App Soul",
 		"jp_explain": "打撃+40 射撃+40\n法撃+40",
 		"tr_explain": "S-ATK+40 R-ATK+40\nT-ATK+40"
 	},
@@ -1185,7 +1185,7 @@
 	{
 		"assign": "169",
 		"jp_text": "スピリタ・アルファ",
-		"tr_text": "Spirita Alpha",
+		"tr_text": "Spirita-A",
 		"jp_explain": "技量+30 PP+3",
 		"tr_explain": "DEX+30 PP+3"
 	},
@@ -1234,7 +1234,7 @@
 	{
 		"assign": "176",
 		"jp_text": "ダークネス・ソール",
-		"tr_text": "Darkness Soul",
+		"tr_text": "Da-Soul",
 		"jp_explain": "全+15 HP+15 PP+2",
 		"tr_explain": "ALL+15 HP+15\nPP+2"
 	},
@@ -1248,7 +1248,7 @@
 	{
 		"assign": "178",
 		"jp_text": "ソール・カタリスト",
-		"tr_text": "Soul Catalyst",
+		"tr_text": "S-Catalyst",
 		"jp_explain": "4つ集めると\n特定のソールと合成可能\nHP+10 PP+1",
 		"tr_explain": ""
 	},
@@ -1416,21 +1416,21 @@
 	{
 		"assign": "202",
 		"jp_text": "アクト・ジ・ソール",
-		"tr_text": "Act The Soul",
+		"tr_text": "A-The Soul",
 		"jp_explain": "打撃+35 PP+3",
 		"tr_explain": "S-ATK+35 PP+3"
 	},
 	{
 		"assign": "203",
 		"jp_text": "ティル・ジ・ソール",
-		"tr_text": "Till The Soul",
+		"tr_text": "T-The Soul",
 		"jp_explain": "射撃+35 PP+3",
 		"tr_explain": "R-ATK+35 PP+3"
 	},
 	{
 		"assign": "204",
 		"jp_text": "マギー・ジ・ソール",
-		"tr_text": "Magi The Soul",
+		"tr_text": "M-The Soul",
 		"jp_explain": "法撃+35 PP+3",
 		"tr_explain": "T-ATK+35 PP+3"
 	},
@@ -1528,42 +1528,42 @@
 	{
 		"assign": "218",
 		"jp_text": "ヤマト・ファクター",
-		"tr_text": "Yamato Factor",
+		"tr_text": "Y-Factor",
 		"jp_explain": "打撃+10 射撃+20\n法撃+10 HP+20 PP+1",
 		"tr_explain": "S-ATK+10 R-ATK+20\nT-ATK+10 HP+20 PP+1"
 	},
 	{
 		"assign": "219",
 		"jp_text": "オフェンス・ブースト",
-		"tr_text": "Offense Boost",
+		"tr_text": "O-Boost",
 		"jp_explain": "打撃+15 射撃+15\n法撃+15 技量+25 PP+1",
 		"tr_explain": "S-ATK+15 R-ATK+15\nT-ATK+15 DEX+25 PP+1"
 	},
 	{
 		"assign": "220",
 		"jp_text": "ディフェンス・ブースト",
-		"tr_text": "Defense Boost",
+		"tr_text": "D-Boost",
 		"jp_explain": "打防+25 射防+25\n法防+25 HP+55 PP+1",
 		"tr_explain": "S-DEF+25 R-DEF+25\nT-DEX+25 HP+55 PP+1"
 	},
 	{
 		"assign": "221",
 		"jp_text": "アタックレセプター",
-		"tr_text": "Attack Receptor",
+		"tr_text": "A-Receptor",
 		"jp_explain": "攻撃上昇特殊能力3種と\nアームの合成成功率を\n大幅に上昇　　　全+5",
 		"tr_explain": "Greatly increases the\naffix rate of 3 ATK abilities.\nAll+5"
 	},
 	{
 		"assign": "222",
 		"jp_text": "ガードレセプター",
-		"tr_text": "Guard Receptor",
+		"tr_text": "Gu-Receptor",
 		"jp_explain": "特殊能力ボディ、リアクト\nマインドの合成成功率を\n大幅に上昇　　　全+5",
 		"tr_explain": "Greatly increases the\naffix rate of 3 DEF abilities.\nAll+5"
 	},
 	{
 		"assign": "223",
 		"jp_text": "フォトンレセプター",
-		"tr_text": "Photon Receptor",
+		"tr_text": "Ph-Receptor",
 		"jp_explain": "特殊能力スタミナと\nスピリタの合成成功率を\n大幅に上昇　　　全+5",
 		"tr_explain": "Greatly increases the\naffix rate of Stamina and Spirita.\nAll+5"
 	},
@@ -1598,7 +1598,7 @@
 	{
 		"assign": "228",
 		"jp_text": "フルベガス・ソール",
-		"tr_text": "Full Vegas Soul",
+		"tr_text": "FVegas Soul",
 		"jp_explain": "特定のソールと合成可能\n打撃+15 射撃+15\n法撃+15",
 		"tr_explain": "Can be combined with\ncertain abilities.\nS-ATK+15 R-ATK+15 T-ATK+15"
 	},
@@ -1612,28 +1612,28 @@
 	{
 		"assign": "230",
 		"jp_text": "エレガント・パワー",
-		"tr_text": "Elegant Power",
+		"tr_text": "E-Power",
 		"jp_explain": "打撃+40 PP+4",
 		"tr_explain": "S-ATK+40 PP+4"
 	},
 	{
 		"assign": "231",
 		"jp_text": "エレガント・シュート",
-		"tr_text": "Elegant Shot",
+		"tr_text": "E-Shot",
 		"jp_explain": "射撃+40 PP+4",
 		"tr_explain": "R-ATK+40 PP+4"
 	},
 	{
 		"assign": "232",
 		"jp_text": "エレガント・テクニック",
-		"tr_text": "Elegant Technique",
+		"tr_text": "E-Tech",
 		"jp_explain": "法撃+40 PP+4",
 		"tr_explain": "T-ATK+40 PP+4"
 	},
 	{
 		"assign": "233",
 		"jp_text": "エレガント・スタミナ",
-		"tr_text": "Elegant Stamina",
+		"tr_text": "E-Stamina",
 		"jp_explain": "HP+70 PP+4",
 		"tr_explain": "HP+70 PP+4"
 	},
@@ -1654,14 +1654,14 @@
 	{
 		"assign": "236",
 		"jp_text": "イザネカヅチ・ソール",
-		"tr_text": "Izane Kazuchi Soul",
+		"tr_text": "Izane Soul",
 		"jp_explain": "打撃+20 射撃+20\n法撃+20 PP+2",
 		"tr_explain": "S-ATK+20 R-ATK+20\nT-ATK+20 PP+2"
 	},
 	{
 		"assign": "237",
 		"jp_text": "マザー・ファクター",
-		"tr_text": "Mother Factor",
+		"tr_text": "M-Factor",
 		"jp_explain": "打撃+10 射撃+10\n法撃+20 HP+20 PP+1",
 		"tr_explain": "S-ATK+10 R-ATK+10\nT-ATK+20 HP+20 PP+1"
 	},
@@ -1836,14 +1836,14 @@
 	{
 		"assign": "262",
 		"jp_text": "フレイズレセプター",
-		"tr_text": "Phrase Receptor",
+		"tr_text": "Phr-Receptor",
 		"jp_explain": "フレイズ系特殊能力の\n合成成功率を大幅に上昇\n全+10",
 		"tr_explain": "Boosts transfer\nrate of Phrase Abilities.\nALL+10"
 	},
 	{
 		"assign": "263",
 		"jp_text": "センテンスレセプター",
-		"tr_text": "Sentence Receptor",
+		"tr_text": "Sen-Receptor",
 		"jp_explain": "センテンス系特殊能力の\n合成成功率を大幅に上昇\n全+10",
 		"tr_explain": "Boosts transfer\nrate of Sentence Abilities.\nALL+10"
 	},
@@ -1906,7 +1906,7 @@
 	{
 		"assign": "272",
 		"jp_text": "オメガ・レヴリー",
-		"tr_text": "Omega Reverie",
+		"tr_text": "O-Reverie",
 		"jp_explain": "打撃+15 射撃+15\n法撃+15 HP+20 PP+1",
 		"tr_explain": "ATK+15 HP+20 PP+1"
 	},
@@ -1920,7 +1920,7 @@
 	{
 		"assign": "274",
 		"jp_text": "アレス・ジ・ソール",
-		"tr_text": "Ares The Soul",
+		"tr_text": "Ar-The Soul",
 		"jp_explain": "打撃+25 射撃+25\n法撃+25 HP+35 PP+3",
 		"tr_explain": "ATK+25 HP+35 PP+3"
 	},
@@ -1962,7 +1962,7 @@
 	{
 		"assign": "280",
 		"jp_text": "エルダー・レヴリー",
-		"tr_text": "",
+		"tr_text": "E-Reverie",
 		"jp_explain": "打撃+40 射撃+20\n法撃+20 PP-2",
 		"tr_explain": ""
 	},
