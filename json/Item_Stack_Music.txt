@@ -39,7 +39,7 @@
 		"jp_text": "PSO2 イベント「怒」",
 		"tr_text": "PSO2 Event \"Anger\"",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃４６\n『Quietly Decision』",
-		"tr_explain": "A music disc for your jukebox.\nPSO2 #46\n"Bright Symphony\""
+		"tr_explain": "A music disc for your jukebox.\nPSO2 #46\n\"Bright Symphony\""
 	},
 	{
 		"assign": "31906",
@@ -4031,4 +4031,5 @@
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＹＫＲ ＃０２\n『サヨナラチェーンソー』",
 		"tr_explain": ""
 	}
-\"
+	
+]
