@@ -172,7 +172,7 @@
 		"jp_text": "PSO2 イベント「六芒均衡」",
 		"tr_text": "PSO2 Event \"Council of Six\"",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃４７\n『六芒均衡 - 勇者の帰還 -』",
-		"tr_explain": "A music disc for your jukebox.\nPSO2 #47\n\"The Council of Six -Return of the Heroes-\""
+		"tr_explain": "A music disc for your jukebox.\nPSO2 #47 \"The Council of Six\n-Return of the Heroes-\""
 	},
 	{
 		"assign": "319028",
@@ -823,7 +823,7 @@
 		"jp_text": "PSO-森林",
 		"tr_text": "PSO - Forest",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃１２（曲調変更可）\n『Mother earth of dishonesty』",
-		"tr_explain": "A music disc for your jukebox.\nPSO2 #12 (Melody can be changed)\"Mother earth of dishonesty\""
+		"tr_explain": "A music disc for your jukebox.\nPSO2 #12 (Melody can be changed)\n\"Mother earth of dishonesty\""
 	},
 	{
 		"assign": "3190122",
@@ -1103,7 +1103,7 @@
 		"jp_text": "集え、八百万の星の下に",
 		"tr_text": "Gather, Underneath the Myriad of Stars",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ｉＯＳＴ ＃０６\n『集え、八百万の星の下に』",
-		"tr_explain": "A music disc for your jukebox.\nPSPo2i OST #06\n\"Gather, Underneath the Myriad of Stars\""
+		"tr_explain": "A music disc for your jukebox.\nPSPo2i OST #06 \"Gather, Underneath\nthe Myriad of Stars\""
 	},
 	{
 		"assign": "3190165",
@@ -2251,7 +2251,7 @@
 		"jp_text": "ＶＤ「アポなし訪問録！」",
 		"tr_text": "VD \"Visitors Without an Appointment!\"",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＶＤ ＃０３\n『ＶＤ「アイドルアポなし訪問録！」』",
-		"tr_explain": "A music disc for your jukebox.\nPSO2VD #03\n\"VD \"Visitors without an Appointment\"\""
+		"tr_explain": "A music disc for your jukebox.\nPSO2VD #03\n\"VD \"Visitors without\nan Appointment\"\""
 	},
 	{
 		"assign": "3190346",
@@ -2363,7 +2363,7 @@
 		"jp_text": "修羅の闇間に",
 		"tr_text": "Shura no Yamikan ni",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０１ ＃０４\n『修羅の闇間に』",
-		"tr_explain": "A music disc for your jukebox.\nPSO2CS #04\n\"Fighting within the Darkness of Space\""
+		"tr_explain": "A music disc for your jukebox.\nPSO2CS #04 \"Fighting within the\nDarkness of Space\""
 	},
 	{
 		"assign": "3190362",
@@ -2587,7 +2587,7 @@
 		"jp_text": "Living on like stars EP3",
 		"tr_text": "Living on Like Stars EP3",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１０２\n『Living on like stars - Another fate -』",
-		"tr_explain": "A music disc for your Jukebox.\nPSO2 #102\"Living on like stars - Another fate -\""
+		"tr_explain": "A music disc for your Jukebox.\nPSO2 #102 \"Living on like\nstars - Another fate -\""
 	},
 	{
 		"assign": "3190408",
@@ -3322,7 +3322,7 @@
 		"jp_text": "檄！帝国華撃団",
 		"tr_text": "Declaration! Imperial Floral Assault Group",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＫＲ ＃０１\n『檄！帝国華撃団』",
-		"tr_explain": "A music disc for your Jukebox.\nSKR #01\n\"Declaration! Imperial Floral Assault Group\""
+		"tr_explain": "A music disc for your Jukebox.\nSKR #01 \"Declaration! Imperial\nFloral Assault Group\""
 	},
 	{
 		"assign": "3190571",
