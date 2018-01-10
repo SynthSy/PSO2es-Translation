@@ -1789,7 +1789,7 @@
 		"jp_text": "Fly -In Game Version-",
 		"tr_text": "Fly -In Game Version-",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＲＹＵ３ ＃０１\n『Fly ～In Game Version～』",
-		"tr_explain": "A music disc for your jukebox.\nRYU3 #01\n\"Fly ～In Game Version～\""
+		"tr_explain": "A music disc for your jukebox.\nRYU3 #01\n\"Fly ~In Game Version~\""
 	},
 	{
 		"assign": "3190278",
