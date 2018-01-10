@@ -1103,7 +1103,7 @@
 		"jp_text": "集え、八百万の星の下に",
 		"tr_text": "Gather, Underneath the Myriad of Stars",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ｉＯＳＴ ＃０６\n『集え、八百万の星の下に』",
-		"tr_explain": "A music disc for your jukebox.\nPSPo2i OST #06 \"Gather, Underneath\nthe Myriad of Stars\""
+		"tr_explain": "A music disc for your jukebox.\nPSPo2i OST #06 \"Gather,\nUnderneath the Myriad of Stars\""
 	},
 	{
 		"assign": "3190165",
@@ -2048,7 +2048,7 @@
 		"jp_text": "S.C.5 25時",
 		"tr_text": "S.C.5 25th Hour",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＣ５ｐ２ ＃０１\n『S.C.5 25時[Option Remix 2002]』",
-		"tr_explain": "A music disc for your jukebox.\nSC5p2 #01\n\"S.C.5 25th Hour[Option Remix 2002]\""
+		"tr_explain": "A music disc for your jukebox.\nSC5p2 #01 \"S.C.5 25th Hour\n[Option Remix 2002]\""
 	},
 	{
 		"assign": "3190317",
