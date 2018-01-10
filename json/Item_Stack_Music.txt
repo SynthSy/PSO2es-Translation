@@ -2047,8 +2047,8 @@
 		"assign": "3190316",
 		"jp_text": "S.C.5 25時",
 		"tr_text": "S.C.5 25th Hour",
-		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＣ５ｐ２ ＃０１\n『S.C.5 25時\"Option Remix 2002\"』",
-		"tr_explain": "A music disc for your jukebox.\nSC5p2 #01\n\"S.C.5 25th Hour\"Option Remix 2002\"\""
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＣ５ｐ２ ＃０１\n『S.C.5 25時[Option Remix 2002]』",
+		"tr_explain": "A music disc for your jukebox.\nSC5p2 #01\n\"S.C.5 25th Hour[Option Remix 2002]\""
 	},
 	{
 		"assign": "3190317",
@@ -2269,8 +2269,8 @@
 	},
 	{
 		"assign": "3190348",
-		"jp_text": "ＳＳ起動音\"H.\"\"Remix\"",
-		"tr_text": "SS Startup Sound \"H.\"\"Remix\"",
+		"jp_text": "ＳＳ起動音[H.][Remix]",
+		"tr_text": "SS Startup Sound [H.][Remix]",
 		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃１１\n『セガサターン起動音［H.］［Remix］』",
 		"tr_explain": ""
 	},
